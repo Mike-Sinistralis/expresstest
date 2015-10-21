@@ -1,0 +1,11 @@
+{
+  "name": "expresstest",
+  "version": "1.0.0",
+  "description": "Me playing with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
